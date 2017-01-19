@@ -11,3 +11,5 @@ dist
 node_modules
 trace/tmp/
 hystrix-wiremock-example.iml
+bookstore/bookstore.iml
+reading/reading.iml
